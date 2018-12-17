@@ -1,0 +1,27 @@
+{
+  "code": "8000",
+  "msg": "success",
+  "result": [
+    {
+      "catId": "8e5e24acf260e2c7c9959173eb8d6746",
+      "catName": "绝地求生",
+      "catIcon": "https://yphoto.eryufm.cn/upload/assets/20180925_juediqiusheng.png"
+    },
+    {
+      "catId": "412592068762796032",
+      "catName": "刺激战场",
+      "catIcon": "https://yphoto.eryufm.cn/upload/assets/20180925_cijizhanchang.png"
+    },
+    {
+      "catId": "b2f36bbf94624eda70367bb5146e8bcf",
+      "catName": "LOL",
+      "catIcon": "https://yphoto.eryufm.cn/upload/13F21654-0C53-450F-A9C3-42B15BB70C80.jpg"
+    },
+    {
+      "catId": "8efb76c4477637c4c70352b8ce2be686",
+      "catName": "王者荣耀",
+      "catIcon": "https://yphoto.eryufm.cn/upload/assets/icon_wangzherongyao.png"
+    }
+  ],
+  "success": true
+}
